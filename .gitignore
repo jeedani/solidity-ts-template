@@ -1,0 +1,14 @@
+# Node
+dist/
+node_modules/
+
+# Hardhat 
+cache/
+artifcats/
+
+# Typechain
+typechain/
+
+.build-cache
+.vscode/*
+.devcontainer
